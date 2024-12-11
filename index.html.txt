@@ -1,0 +1,139 @@
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="author" content="Twoje Imię">
+    <meta name="description" content="Książka 'Moda na dawanie dupy'">
+    <title>Moda na dawanie dupy</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+            color: #333;
+        }
+        header {
+            background-color: #333;
+            color: #fff;
+            padding: 10px 0;
+            text-align: center;
+        }
+        .container {
+            width: 80%;
+            margin: 0 auto;
+            background-color: #fff;
+            padding: 20px;
+            box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+        }
+        h1, h2 {
+            color: #2c3e50;
+        }
+        h2 {
+            margin-top: 20px;
+        }
+        .essay, .story {
+            margin-bottom: 20px;
+        }
+        footer {
+            text-align: center;
+            padding: 20px;
+            background-color: #333;
+            color: #fff;
+        }
+    </style>
+</head>
+<body>
+
+<header>
+    <h1>Moda na dawanie dupy</h1>
+</header>
+
+<div class="container">
+    <section>
+        <h2>Rozdział 1: "Zbyt łatwe by było prawdziwe"</h2>
+        <div class="essay">
+            <p>Współczesność to świat paradoksów. Media społecznościowe otwierają przed nami niezliczone możliwości nawiązywania kontaktów, a jednocześnie sprawiają, że te kontakty stają się płytkie. Profile, zdjęcia, idealnie wykadrowane momenty z życia, jakby każdy był bohaterem swojego filmu. Znajomości zaczynają się jednym przesunięciem palca, a kończą równie szybko, bez wyjaśnień, bez pożegnań. Stworzyliśmy iluzję dostępności, a w rzeczywistości oddaliliśmy się od siebie jak nigdy wcześniej.</p>
+            <p>Prawdziwa relacja wymaga czasu, wysiłku i szczerości, ale współczesne normy promują coś przeciwnego: szybkość, wygodę i unikanie odpowiedzialności. Ideał miłości, która jest "łatwa", przyjemna i pozbawiona konfliktów, staje się pułapką. Czy w takim świecie możliwe jest znalezienie czegoś prawdziwego? Może zamiast kolejnych iluzji warto zastanowić się, jak odbudować umiejętność budowania głębszych więzi – takich, które nie gasną z powodu drobnych nieporozumień?</p>
+        </div>
+        <div class="story">
+            <p><strong>Opowiadanie: "Zamknięci w labiryncie aplikacji"</strong></p>
+            <p>Kuba codziennie przeglądał profile na popularnej aplikacji randkowej. Każdy ruch palca w prawo lub w lewo był jak otwieranie drzwi w labiryncie, w którym szukał wyjścia. Każde "dopasowanie" dawało krótkie uczucie satysfakcji, ale rozmowy szybko gasły.</p>
+            <p>"Co lubisz robić w wolnym czasie?" – pytał."A ty?" – odpowiadano.</p>
+            <p>Powierzchowne pytania, powierzchowne odpowiedzi. Wszystko kończyło się na etapie "miło było pogadać". Pewnego dnia poznał Magdę. Była inna – tak mu się wydawało. Rozmowa była płynna, naturalna, jakby znali się od zawsze. Spotkali się po tygodniu wymiany wiadomości. Magda przyszła na randkę, ale zamiast rozmowy, więcej czasu poświęcała przeglądaniu telefonu. Kuba poczuł, że znów wpadł w ten sam schemat.</p>
+            <p>Wieczorem, leżąc w łóżku, Kuba usunął aplikację. "Nie jestem tu po to, by być częścią gry" – pomyślał. Ale czy poza aplikacją znajdzie kogoś, kto myśli tak samo?</p>
+        </div>
+    </section>
+    
+    <section>
+        <h2>Rozdział 2: "Miłość w erze pop-kultury"</h2>
+        <div class="essay">
+            <p>Filmy, muzyka, książki – kultura masowa od dawna kreuje obraz miłości jako czegoś idealnego, niemal magicznego. Zawsze jest on, jest ona, są przeciwności losu, ale na końcu zawsze happy end. Taki obraz buduje w nas wyobrażenie, że miłość powinna wyglądać właśnie w ten sposób – dramatyczna, porywająca, niezmienna. Ale prawdziwa miłość nie mieści się w tych ramach.</p>
+            <p>Iluzje, które pochłaniamy, wpływają na nasze oczekiwania wobec partnerów. Chcemy idealnej miłości, ale zapominamy, że ideały nie istnieją. Życie to nie film, a miłość to nie tylko wzniosłe uczucia, lecz także codzienność, kompromisy i wyzwania. Dopiero gdy odrzucimy te nierealne wzorce, możemy dostrzec prawdziwe piękno w relacjach.</p>
+        </div>
+        <div class="story">
+            <p><strong>Opowiadanie: "Idealni, ale zbyt idealni"</strong></p>
+            <p>Anna i Mateusz poznali się w bibliotece. Ona uwielbiała klasykę literatury, on – fantastykę. Rozmowa zaczęła się od przypadkowego komentarza o książkach, potem przerodziła się w długie dyskusje o życiu, marzeniach i miłości. Oboje wydawali się sobie nawzajem idealni.</p>
+            <p>Pierwsza randka była jak z filmu – zachód słońca, śmiech, niekończące się rozmowy. Każda kolejna randka wydawała się równie magiczna, aż do momentu, gdy oboje zaczęli dostrzegać coś niepokojącego. Anna zauważyła, że Mateusz unika trudnych tematów. Mateusz z kolei widział, jak Anna stara się być idealna za wszelką cenę. Oboje zaczęli odgrywać role, które sami stworzyli.</p>
+            <p>W końcu ich relacja rozpadła się pod ciężarem oczekiwań. "Chciałam, żebyś był moim bohaterem" – powiedziała Anna. "A ja chciałem, żebyś była jak z bajki" – odpowiedział Mateusz. Oboje zrozumieli, że nie potrafili być sobą.</p>
+        </div>
+    </section>
+
+    <section>
+        <h2>Rozdział 3: "Samotność, która nie boli"</h2>
+        <div class="essay">
+            <p>Samotność towarzyszy nam częściej, niż chcielibyśmy przyznać. Współczesna kultura stawia na niezależność i samowystarczalność, ucząc nas, że potrzeba bliskości to słabość. Promuje się obraz człowieka, który wszystko osiąga sam, a relacje są dodatkiem, nie priorytetem.</p>
+            <p>Ale samotność, nawet jeśli jest oswojona, zawsze pozostawia pustkę. Ludzie coraz częściej wybierają powierzchowne relacje, by uniknąć bólu, który może przynieść prawdziwa bliskość. W rezultacie zamykają się w bańkach, które chronią ich przed światem, ale jednocześnie od niego izolują. Czy jednak warto?</p>
+        </div>
+        <div class="story">
+            <p><strong>Opowiadanie: "Przyjaciele z korzyściami"</strong></p>
+            <p>Ewa i Michał spotykali się od kilku miesięcy. Byli dla siebie wygodą – ona potrzebowała kogoś do rozmowy, on – kogoś, kto rozweseli go po ciężkim dniu. Ich relacja była prosta: bez zobowiązań, bez emocji, bez ryzyka.</p>
+            <p>"Nie potrzebuję związku" – mówiła Ewa, gdy Michał pytał, czy chcieliby czegoś więcej. "Związki tylko komplikują życie" – dodawał Michał.</p>
+            <p>Pewnego dnia Michał zobaczył Ewę z kimś innym. Nie poczuł zazdrości, ale coś w nim pękło. Uświadomił sobie, że cała ta "prosta relacja" była tylko ucieczką przed samotnością. Ale czy można zacząć od nowa, gdy przez tyle czasu uciekało się przed bliskością?</p>
+        </div>
+    </section>
+
+    <section>
+        <h2>Rozdział 4: "Strach przed miłością"</h2>
+        <div class="essay">
+            <p>Miłość jest piękna, ale też przerażająca. Daje nadzieję, ale wymaga ryzyka. Otwiera serce, ale równocześnie czyni je bardziej podatnym na ból. Dlatego tak wiele osób unika prawdziwych uczuć, chowając się za maskami obojętności lub pozornym dystansem. Strach przed zranieniem jest zrozumiały – nikt nie chce czuć się odrzucony, zdradzony, złamany. Ale czy można w ogóle mówić o miłości bez ryzyka?</p>
+            <p>Dystans, który ludzie tworzą wokół siebie, często przypomina niewidzialną barierę. „Nie pokazuj, że ci zależy” – podpowiadają wewnętrzne głosy. Ale te mury, które mają nas chronić, w rzeczywistości tylko oddalają nas od innych. Miłość wymaga odwagi, a czasem również zgody na to, że coś może się nie udać. Bo tylko w otwarciu na drugiego człowieka tkwi szansa na prawdziwą bliskość.</p>
+        </div>
+        <div class="story">
+            <p><strong>Opowiadanie: "Niewidzialni"</strong></p>
+            <p>Julia nigdy nie lubiła mówić o uczuciach. Od czasu, gdy jej pierwszy związek rozpadł się w dramatycznych okolicznościach, unikała wszystkiego, co mogło prowadzić do kolejnego zranienia. Jej życie było zaplanowane, przewidywalne – praca, dom, sporadyczne spotkania ze znajomymi. Była samotna, choć nigdy się do tego nie przyznawała.</p>
+            <p>Kiedy poznała Pawła, coś w niej zaczęło się zmieniać. Był cierpliwy, ciepły, uśmiechnięty. Potrafił rozśmieszyć ją nawet w najgorszy dzień. Ale Julia bała się zaufać. „To zbyt piękne, by mogło być prawdziwe” – powtarzała sobie.</p>
+            <p>Paweł próbował przebić się przez jej mury. Czekał, kiedy nie odpowiadała na jego wiadomości. Starał się zrozumieć, gdy unikała poważnych rozmów. Ale każda jego próba kończyła się tak samo – chłodnym dystansem Julii.</p>
+            <p>„Nie mogę czekać w nieskończoność” – powiedział w końcu, kiedy po raz kolejny próbował zaprosić ją na spacer, a ona odmówiła bez wyjaśnień. Julia patrzyła na niego, wiedząc, że ma rację. Chciała coś powiedzieć, zatrzymać go, ale strach przed otwarciem się był silniejszy niż pragnienie bliskości.</p>
+            <p>Kilka tygodni później siedziała samotnie na ławce w parku, w którym miała spotkać się z Pawłem. Wyciągnęła telefon, przeglądając ich rozmowy. Wszystko, co mogło być między nimi, zostało utracone – nie przez los, ale przez jej własne obawy.</p>
+            <p>„Może kiedyś...” – pomyślała, ale w głębi serca wiedziała, że „kiedyś” nigdy nie nadejdzie, jeśli nie nauczy się pokonać własnych lęków.</p>
+        </div>
+    </section>
+
+    <section>
+        <h2>Rozdział 5: "Kiedy miłość to tylko obietnica"</h2>
+        <div class="essay">
+            <p>Miłość, jaką sobie wyobrażamy, często przypomina obietnicę – coś, co czeka na nas gdzieś za rogiem, w idealnej przyszłości. Uczymy się jej z książek, filmów i piosenek, które malują obraz doskonałego uczucia: intensywnego, wiecznego i bezproblemowego. Ale w rzeczywistości miłość nie jest obietnicą – jest decyzją, codziennym wyborem i aktem zaangażowania.</p>
+            <p>Współczesne społeczeństwo ułatwia nam unikanie tej prawdy. Aplikacje randkowe, szybkie znajomości, przelotne romanse – wszystko to sprawia, że przestajemy wierzyć w coś głębszego. Zamiast tego szukamy iluzji, ideałów, czegoś, co istnieje tylko w naszych głowach. Miłość, która przychodzi łatwo, często kończy się równie szybko. A miłość, która wymaga wysiłku, jest porzucana na rzecz wygodniejszych opcji.</p>
+            <p>Czy jednak nie warto przestać gonić za iluzją i zacząć widzieć miłość taką, jaka jest? Nie idealną, ale prawdziwą. Nie prostą, ale piękną w swojej złożoności.</p>
+        </div>
+        <div class="story">
+            <p><strong>Opowiadanie: "Tylko w snach"</strong></p>
+            <p>Marta miała w głowie wyraźny obraz swojego idealnego partnera. Był wysoki, inteligentny, miał poczucie humoru i pasję do życia. Odkąd pamiętała, każdą znajomość porównywała do tego wyobrażenia. „Nie pasuje” – myślała, kończąc rozmowy, które mogłyby prowadzić do czegoś więcej.</p>
+            <p>Kiedy poznała Krzysztofa, coś ją zaintrygowało. Nie był dokładnie tym, kogo sobie wymarzyła – nie lubił książek, którymi się pasjonowała, a jego poczucie humoru czasami wydawało się niezręczne. Ale Krzysztof był ciepły, uważny i gotowy dać z siebie wszystko, by ją uszczęśliwić.</p>
+            <p>Początkowo Marta myślała, że może z czasem uczucie do niego się pogłębi. Jednak z każdym kolejnym dniem wracała do swoich wyobrażeń. „To nie to” – powtarzała sobie, porównując Krzysztofa do ideału, który stworzyła w swojej głowie.</p>
+            <p>Kiedy w końcu postanowiła zakończyć relację, Krzysztof spojrzał na nią z mieszaniną smutku i zrozumienia. „Nigdy nie byłem tym, kogo szukałaś, prawda?” – zapytał cicho. Marta nie odpowiedziała.</p>
+            <p>Kilka miesięcy później, oglądając stare zdjęcia, Marta poczuła ukłucie żalu. Zrozumiała, że ideał, za którym goniła, nigdy nie istniał. Był tylko snem, który odebrał jej szansę na prawdziwe szczęście.</p>
+            <p>W głębi duszy obiecała sobie, że następnym razem nie będzie szukać tego, co idealne. Zamiast tego poszuka tego, co prawdziwe.</p>
+        </div>
+    </section>
+</div>
+
+<footer>
+    <p>© 2024 P. </p>
+</footer>
+
+</body>
+</html>
